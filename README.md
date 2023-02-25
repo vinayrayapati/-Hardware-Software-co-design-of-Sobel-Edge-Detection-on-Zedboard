@@ -1,1 +1,1 @@
-# -Hardware-Software-co-design-of-Sobel-Edge-Detection-on-Zedboard
+# Hardware-Software-co-design-of-Sobel-Edge-Detection-on-Zedboard
